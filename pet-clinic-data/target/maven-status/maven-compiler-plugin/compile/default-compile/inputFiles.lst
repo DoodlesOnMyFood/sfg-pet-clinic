@@ -1,8 +1,11 @@
+/home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/SpecialtyService.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerService.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java
+/home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/SpecialtyServiceMap.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/PetServiceMap.java
+/home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/PetTypeServiceMap.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/OwnerServiceMap.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/VetServiceMap.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java
@@ -10,5 +13,8 @@
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/AbstractMapService.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/CrudService.java
+/home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Specialty.java
+/home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Visit.java
+/home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetTypeService.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/BaseEntity.java
 /home/jisoo/pet-projects/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java
