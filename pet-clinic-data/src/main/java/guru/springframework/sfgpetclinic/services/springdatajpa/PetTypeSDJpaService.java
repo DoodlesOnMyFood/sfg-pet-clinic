@@ -7,7 +7,8 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 @Service
-@Profile("springdatajpa")public class PetTypeSDJpaService extends AbstractSDJpaService<PetType, PetTypeRepository> implements PetTypeService {
+@Profile("springdatajpa")
+public class PetTypeSDJpaService extends AbstractSDJpaService<PetType, PetTypeRepository> implements PetTypeService {
 	public PetTypeSDJpaService(PetTypeRepository repository) {
 		super(repository);
 	}
