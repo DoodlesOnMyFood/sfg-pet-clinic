@@ -1,6 +1,7 @@
 package guru.springframework.sfgpetclinic.model;
 
 import lombok.*;
+import lombok.experimental.SuperBuilder;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -12,6 +13,7 @@ import java.io.Serializable;
 @Setter
 @NoArgsConstructor
 @MappedSuperclass
+@SuperBuilder
 @AllArgsConstructor
 public class BaseEntity implements Serializable {
 	@Id

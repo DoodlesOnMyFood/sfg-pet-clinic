@@ -2,6 +2,7 @@ package guru.springframework.sfgpetclinic.model;
 
 
 import lombok.*;
+import lombok.experimental.SuperBuilder;
 
 import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
@@ -11,6 +12,7 @@ import javax.persistence.MappedSuperclass;
 @NoArgsConstructor
 @AllArgsConstructor
 @MappedSuperclass
+@SuperBuilder
 public class Person extends BaseEntity{
 	@Column(name = "first_name")
 	private String firstName;
